@@ -10,7 +10,7 @@ Don't expect perfection.
 # Instructions
 ### Installation
 Within your Jellyfin admin panel, go to Plugins -> Repositories, and add
-https://raw.githubusercontent.com/imaginary-upside/JellyfinJav/master/manifest.json.
+AQUI IRA EL RAW URL
 Then switch over to the Catalog tab and install the latest version.
 
 ### Usage
